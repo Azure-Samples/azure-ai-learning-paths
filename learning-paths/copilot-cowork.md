@@ -24,7 +24,7 @@ Use this path to learn how Copilot Cowork delegates multi-step work across Micro
 ## Public scenario runbooks
 
 - [Chief-of-Staff Cowork Agent](https://github.com/microsoft/ai-agent-runbooks/tree/main/01-scenarios/Chief-of-Staff-Cowork-Agent)
-- [Recurring Analytics Cowork Agent](https://github.com/microsoft/ai-agent-runbooks/tree/main/01-scenarios/Recurring-Analytics-Cowork-Agent)
+- [Insights Analyst Cowork Agent](https://github.com/microsoft/ai-agent-runbooks/tree/main/01-scenarios/Insights-Analyst-Cowork-Agent)
 
 ## Readiness check
 
